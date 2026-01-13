@@ -15,3 +15,6 @@ print(f"W sumie kupuję {total_products} produktów.")
 print("Udane zakupy")
 
 print("Kolejne zakupy za tydzien")
+
+
+print("Wreszcie dotarlam do konca modulu. Pozdrawiam! :) ")
