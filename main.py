@@ -13,3 +13,5 @@ total_products = sum(len(product) for product in shopping_list.values())
 print(f"W sumie kupuję {total_products} produktów.")
 
 print("Udane zakupy")
+
+print("Kolejne zakupy za tydzien")
